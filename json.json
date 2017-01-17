@@ -1,0 +1,16 @@
+[
+  {
+    "title":"title of news",
+    "content":"news content",
+    "featuredImage":"http://placehold.it/350x150",
+    "category":"Name of Category",
+    "publishDate":"1484580711"
+  },
+  {
+    "title":"title of news",
+    "content":"news content",
+    "featuredImage":"http://placehold.it/350x150",
+    "category":"Name of Category",
+    "publishDate":"1484580711"
+  }
+]
